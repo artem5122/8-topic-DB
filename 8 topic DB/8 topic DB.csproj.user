@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FillingTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FiredList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RelatedTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalaryQuantity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

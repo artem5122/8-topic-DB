@@ -1,0 +1,31 @@
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\8 topic DB.exe
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\8 topic DB.deps.json
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\8 topic DB.runtimeconfig.json
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\8 topic DB.runtimeconfig.dev.json
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\8 topic DB.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\ref\8 topic DB.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\8 topic DB.pdb
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\_8_topic_DB.Form1.resources
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.csproj.GenerateResource.cache
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.AssemblyInfo.cs
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.csproj.CopyComplete
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\ref\8 topic DB.dll
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.pdb
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\8 topic DB.genruntimeconfig.cache
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\_8_topic_DB.MainForm.resources
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\_8_topic_DB.FillingTables.resources
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\_8_topic_DB.ShowTables.resources
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\_8_topic_DB.RelatedTables.resources
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\_8_topic_DB.SalaryQuantity.resources
+C:\Users\Артем\source\repos\8 topic DB\8 topic DB\obj\Debug\net5.0-windows\_8_topic_DB.FiredList.resources
